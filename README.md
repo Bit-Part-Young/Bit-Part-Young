@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### My pinned repos:
 
-[![Readme Card](https://github-readme-stats-two-sage-75.vercel.app/api/pin/?username=Bit-Part-Young&repo=spt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-two-sage-75.vercel.app/api/pin/?username=Bit-Part-Young&repo=spt)](https://github.com/Bit-Part-Young/spt)
 
 
 ### More about me:
