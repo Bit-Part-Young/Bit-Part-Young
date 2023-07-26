@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Bit-Part-Young's github profile](https://github-readme-stats.vercel.app/api?username=Bit-Part-Young&count_private=true&show_icons=true&theme=tokyonight)
+![Bit-Part-Young's github profile](https://github-readme-stats-two-sage-75.vercel.app/api?username=Bit-Part-Young&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bit-Part-Young&repo=spt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-two-sage-75.vercel.app/api/pin/?username=Bit-Part-Young&repo=spt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit-Part-Young)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-two-sage-75.vercel.app/api/top-langs/?username=Bit-Part-Young)](https://github.com/anuraghazra/github-readme-stats)
