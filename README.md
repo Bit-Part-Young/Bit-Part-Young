@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 #### Programming Related
 
 - [spt: Scientific matplotlib plot rcParams configuration template python package](https://github.com/Bit-Part-Young/spt)
+    - Documentation: [spt Documentation](https://seekanotherland.xyz/spt/)
 - [Programs Test Scripts for Research](https://github.com/Bit-Part-Young/programs-test)
 - [Linux Dotfiles](https://github.com/Bit-Part-Young/dotfiles)
 
