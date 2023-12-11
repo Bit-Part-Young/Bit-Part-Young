@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 
 
 ### Projects
+
+###  Projects Related
+
+- High-throughput First Principle Calculations of Nb-Si Alloy Composition Design 
+- Molecular Dynamics Simulation Study on the Impact of Point Defect Concentration on the Elastic Properties of Metal Materials
+
+Note: **Data of above projects will be made available on request.**
+
 #### Web Related
 
 - Research Group Website (informal): [Website for Group of Non-Equilibrium Solidification and Metastable Materials](https://seekanotherland.xyz/hugo-demo/)
