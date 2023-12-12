@@ -68,6 +68,8 @@ Note: **Data of above projects will be made available on request.**
 
 - [Graduate Course Resourses for SMSE at SJTU](https://github.com/Bit-Part-Young/courses-mse-sjtu)
 - [Undergraduate Course Resourses for SMSE at USTB](https://github.com/Bit-Part-Young/courses-mse-ustb)
+- [Obsidian configuration for self usage](https://github.com/Bit-Part-Young/obsidian-config)
+    - Documentation: [Obsidian config Documentation](https://seekanotherland.xyz/obsidian-config/)
 
 
 ### This is Bit-Part-Young:
