@@ -88,14 +88,14 @@ Note: **Data of above projects will be made available on request.**
     - Documentation: [Obsidian config Documentation](https://seekanotherland.xyz/obsidian-config/)
 
 ---
-
+<!-- 
 <picture width='60%'>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bit-Part-Young/Bit-Part-Young/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bit-Part-Young/Bit-Part-Young/output/github-contribution-grid-snake.svg">
   <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bit-Part-Young/Bit-Part-Young/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+--- -->
 
 ## This is Bit-Part-Young
 
