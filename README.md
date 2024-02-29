@@ -51,41 +51,39 @@ Here are some ideas to get you started:
 
 Note: **Data of above projects will be made available on request.**
 
-### Web Related
-
-- Research Group Website (informal): [Website for Group of Non-Equilibrium Solidification and Metastable Materials](https://seekanotherland.xyz/hugo-demo/)
-- Research Group Wiki (informal): [Wiki for Non-Equilibrium Materials Simulation and Computation Lab](https://seekanotherland.xyz/mkdocs-demo/)
-- Academic Homepage: [Shenlu Yang's Homepage](https://seekanotherland.xyz/cv/)
-- Personal Blog: [seekanotherland.xyz - Hexo](https://seekanotherland.xyz/hexo-demo/)
-- Personal Blog: [seekanotherland.xyz - Docusaurus](https://seekanotherland.xyz/docusaurus-demo/)
-
-### Programming Related
-
-- [spt: Scientific matplotlib plot rcParams configuration template python package](https://github.com/Bit-Part-Young/spt)
-    - Documentation: [spt Documentation](https://seekanotherland.xyz/spt/)
-- [Programs Test Scripts for Research](https://github.com/Bit-Part-Young/programs-test)
-- [Linux Dotfiles](https://github.com/Bit-Part-Young/dotfiles)
-
 ### Course Teaching Assistant Related
 
 - 2023.09 - 2024.01: Graduate Teaching Assistant for the Chinese course **"Multiscale Materials Modeling and Simulation"**
     - [LaTeX & Markdown Template for Report and Assignment of MMMS](https://github.com/Bit-Part-Young/report-template-MMMS)
     - [Typst Template for Report and Assignment of MMMS (WIP)](https://github.com/Bit-Part-Young/report-template-MMMS-typst)
     - [Scripts for MMMS ](https://github.com/Bit-Part-Young/MMMS-scripts)
-    - [Homework Questions for MMMS](https://github.com/Bit-Part-Young/MMMS-homework-questions)
-        - Web: [Homework Questions for MMMS](https://seekanotherland.xyz/MMMS-homework-questions/)
+    - [Homework Questions for MMMS](https://seekanotherland.xyz/MMMS-homework-questions/)
 - 2021.09 - 2022.01, 2022.09 - 2023.01: Undergraduate Teaching Assistant for the English course **"Mechanical Behavior of Materials"**
-    - [Course Questions for MBM](https://github.com/Bit-Part-Young/MBM-course-questions)
-        - Web: [Course Questions for MBM](https://seekanotherland.xyz/MBM-course-questions/)
-    - [Homework Questions for MBM](https://github.com/Bit-Part-Young/MBM-homework-questions)
-        - Web: [Homework Questions for MBM](https://seekanotherland.xyz/MBM-homework-questions/)
+    - [Course Questions for MBM](https://seekanotherland.xyz/MBM-course-questions/)
+    - [Homework Questions for MBM](https://seekanotherland.xyz/MBM-homework-questions/)
+
+### Programming Related
+
+- [spt: Scientific matplotlib plot rcParams configuration template](https://seekanotherland.xyz/spt/)
+- [Programs Test Scripts for Research](https://github.com/Bit-Part-Young/programs-test)
+- [Linux Dotfiles](https://github.com/Bit-Part-Young/dotfiles)
+
+### Web Related
+
+- Research Group Website (informal): [Website for Group of Non-Equilibrium Solidification and Metastable Materials](https://seekanotherland.xyz/hugo-demo/)
+- Research Group Wiki (informal): [Wiki for Non-Equilibrium Materials Simulation and Computation Lab](https://seekanotherland.xyz/mkdocs-demo/)
+- [Academic CV](https://seekanotherland.xyz/cv/)
+- [Personal Blog - Hexo - butterfly](https://seekanotherland.xyz/hexo-demo/)
+- [Personal Blog - Hexo - matery](https://seekanotherland.xyz/hexo-matery-demo/)
+- [Personal Blog - Jekyll](https://seekanotherland.xyz/hexo-jekyll-demo/)
+- [Personal Blog - Docusaurus](https://seekanotherland.xyz/docusaurus-demo/)
+- [YSL gallery](https://seekanotherland.xyz/ysl-gallery/)
 
 #### Misc
 
 - [Graduate Course Resourses for SMSE at SJTU](https://github.com/Bit-Part-Young/courses-mse-sjtu)
-- [Undergraduate Course Resourses for SMSE at USTB](https://github.com/Bit-Part-Young/courses-mse-ustb)
-- [Obsidian configuration for self usage](https://github.com/Bit-Part-Young/obsidian-config)
-    - Documentation: [Obsidian config Documentation](https://seekanotherland.xyz/obsidian-config/)
+- [Undergraduate Course Resourses for SMSE at USTB](https://seekanotherland.xyz/courses-mse-ustb)
+- [Obsidian config template](https://seekanotherland.xyz/obsidian-config/)
 
 ---
 <!-- 
