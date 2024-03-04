@@ -4,27 +4,12 @@ I'm currently a computational material science Phd Candidate student at Shanghai
 
 ---
 
-<!--
-**Bit-Part-Young/Bit-Part-Young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Skills
 
 ### Computational Materials Science tools
 
 - VASP, LAMMPS
-- ICET
+- ICET, ACE
 - atomate, pymatgen, ase, etc
 
 ### Programming language
@@ -55,9 +40,10 @@ Note: **Data of above projects will be made available on request.**
 
 - 2023.09 - 2024.01: Graduate Teaching Assistant for the Chinese course **"Multiscale Materials Modeling and Simulation"**
     - [LaTeX & Markdown Template for Report and Assignment of MMMS](https://github.com/Bit-Part-Young/report-template-MMMS)
-    - [Typst Template for Report and Assignment of MMMS (WIP)](https://github.com/Bit-Part-Young/report-template-MMMS-typst)
-    - [Scripts for MMMS ](https://github.com/Bit-Part-Young/MMMS-scripts)
+    - [Typst Template for Report and Assignment of MMMS](https://github.com/Bit-Part-Young/report-template-MMMS-typst)
+    - [Scripts for MMMS](https://github.com/Bit-Part-Young/MMMS-scripts)
     - [Homework Questions for MMMS](https://seekanotherland.xyz/MMMS-homework-questions/)
+
 - 2021.09 - 2022.01, 2022.09 - 2023.01: Undergraduate Teaching Assistant for the English course **"Mechanical Behavior of Materials"**
     - [Course Questions for MBM](https://seekanotherland.xyz/MBM-course-questions/)
     - [Homework Questions for MBM](https://seekanotherland.xyz/MBM-homework-questions/)
@@ -73,17 +59,18 @@ Note: **Data of above projects will be made available on request.**
 - Research Group Website (informal): [Website for Group of Non-Equilibrium Solidification and Metastable Materials](https://seekanotherland.xyz/hugo-demo/)
 - Research Group Wiki (informal): [Wiki for Non-Equilibrium Materials Simulation and Computation Lab](https://seekanotherland.xyz/mkdocs-demo/)
 - [Academic CV](https://seekanotherland.xyz/cv/)
-- [Personal Blog - Hexo - butterfly](https://seekanotherland.xyz/hexo-demo/)
-- [Personal Blog - Hexo - matery](https://seekanotherland.xyz/hexo-matery-demo/)
-- [Personal Blog - Jekyll](https://seekanotherland.xyz/hexo-jekyll-demo/)
+- [Personal Blog - Hexo - Butterfly](https://seekanotherland.xyz/hexo-demo/)
+- [Personal Blog - Hexo - Matery](https://seekanotherland.xyz/hexo-matery-demo/)
+- [Personal Blog - Jekyll - Chirpy](https://seekanotherland.xyz/hexo-jekyll-demo/)
 - [Personal Blog - Docusaurus](https://seekanotherland.xyz/docusaurus-demo/)
-- [YSL gallery](https://seekanotherland.xyz/ysl-gallery/)
+- [YSL Gallery](https://seekanotherland.xyz/ysl-gallery/)
+- [MkDocs Template](https://seekanotherland.xyz/mkdocs-template/)
 
 #### Misc
 
 - [Graduate Course Resourses for SMSE at SJTU](https://github.com/Bit-Part-Young/courses-mse-sjtu)
 - [Undergraduate Course Resourses for SMSE at USTB](https://seekanotherland.xyz/courses-mse-ustb)
-- [Obsidian config template](https://seekanotherland.xyz/obsidian-config/)
+- [Obsidian Config Template](https://seekanotherland.xyz/obsidian-config/)
 
 ---
 <!-- 
@@ -93,7 +80,8 @@ Note: **Data of above projects will be made available on request.**
   <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bit-Part-Young/Bit-Part-Young/output/github-contribution-grid-snake.svg">
 </picture>
 
---- -->
+--- 
+-->
 
 ## This is Bit-Part-Young
 
